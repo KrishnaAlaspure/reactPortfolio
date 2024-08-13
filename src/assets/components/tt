@@ -1,0 +1,11 @@
+<div id='contactme'>
+      <div className="flex flex-col justify-center items-center mt-40 mb-20">
+        <p className="text-lg text-neutral-400">Get in touch</p>
+        <h1 className="text-5xl font-semibold  ">Contact Me</h1>
+      </div>
+      <div className='flex flex-row justify-center ' >
+        <Mails size={40}/>
+        <p className='text-2xl text-neutral-200 hover: underline '><a href="mailto:alaspurekrishna@yahoo.com">alaspurekrishna@yahoo.com</a></p>
+            
+      </div>
+    </div>
